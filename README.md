@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hola, soy {{Abigail Artega}}
 
-<!--
-**abigailarteaga/abigailarteaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Proyectos
 
-Here are some ideas to get you started:
+### **Peteats e-commerce para Cliente**
+Aplicación web para clientes que desean comprar productos para sus mascotas. El cliente puede vizualizar el catálogo, filtrar productos, realizar pedidos, y registrarse.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 [Mira]((https://peteats.netlify.app/)
+
+---
+
+### **Peteats Admin**
+Panel de administración de inventario, clientes y ventas de la tienda PetEats.
+
+🔗 [Mira]((https://adminpeteats.netlify.app/)
+
+---
+
+### **Ñusta Kawsay - App Móvil**
+Aplicación móvil enfocada en la protección y empoderamiento de mujeres en comunidades rurales, permitiéndoles enviar alertas de ubicación en situaciones de riesgo. 
+
+📲 [Dale un vistazo al repo](https://github.com/tuusuario/nusta-kawsay-app)
+
+---
+
+## Contacto
+
+- Email: {{abigailartecar@hotmail.com}}
+- LinkedIn: [{{Abigail Arteaga}}]((https://www.linkedin.com/in/abigail-arteaga-b06b9931a/))
