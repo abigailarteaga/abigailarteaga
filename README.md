@@ -32,4 +32,4 @@ Aplicación móvil enfocada en la protección y empoderamiento de mujeres en com
 ## Contacto
 
 - Email: abigailartecar@hotmail.com
-- LinkedIn: [{{Abigail Arteaga}}]((https://www.linkedin.com/in/abigail-arteaga-b06b9931a/))
+- LinkedIn: (https://www.linkedin.com/in/abigail-arteaga-b06b9931a/)
