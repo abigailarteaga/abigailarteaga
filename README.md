@@ -8,14 +8,14 @@ Soy estudiante de sexto semestre de Ingeniería en Sistemas de Información en l
 
 ## Proyectos
 
-### **Peteats - E-commerce para Clientes**
+### **PetEats - E-commerce para Clientes**
 Aplicación web para clientes que desean comprar productos para sus mascotas. El cliente puede vizualizar el catálogo, filtrar productos, realizar pedidos y registrarse.
 
 (https://peteats.netlify.app/)
 
 ---
 
-### **Peteats Admin**
+### **PetEats Admin**
 Panel de administración de inventario, clientes y ventas de la tienda PetEats.
 
 (https://adminpeteats.netlify.app/)
